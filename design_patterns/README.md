@@ -1,5 +1,3 @@
-# Design Patterns Practice
-
 This folder contains implementations of common software design patterns in Python.
 
 ## Patterns to Implement
