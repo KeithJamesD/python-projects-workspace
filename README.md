@@ -122,4 +122,4 @@ Backup of previous files and projects
 ## Notes
 - All Python files in this folder structure will use the same virtual environment
 - Remember to activate the environment before working on projects
-- Keep requirements.txt files in individual project folders for reproducibility
+- Keep requirements.txt files in individual project folders for reproducibility# python-projects-workspace
